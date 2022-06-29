@@ -171,7 +171,7 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: 'Hi Beban 🙂'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -186,7 +186,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `${ownername}`,
-body: `Don't forget to read group description`,
+body: `Hadeh, Beban Nambah Lagi`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: `${websitex}`,
@@ -215,7 +215,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'Bye Beban 👋'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -230,7 +230,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `${ownername}`,
-body: `Bye! my friend, take care.`,
+body: `Bye! Beban Semoga Tenang Dialam Sana.`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: `${websitex}`,
