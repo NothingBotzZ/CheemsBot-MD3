@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['wa.me/6285380779466'] //ur owner tag
 global.ownernummenu = ['6285380779466'] //ur owner number in menu and all
 global.watermark = "Nothing." //ur watermark
-global.botscript = "https://github.com/NothingBotzZ/CheemsBot-MD3"
+global.botscript = "https://telegra.ph/file/7cebbb4323526879cc7af.jpg"
 global.linkz1 = "https://chat.whatsapp.com/Jt4LzL5tJ5K5nzYYDiMPfA"
 
 //Bot theme media
