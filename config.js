@@ -49,7 +49,7 @@ global.location = "Indonesia, Sumatra Selatan, Bangka Belitung" //ur location
 
 //bot bombdy
 global.botname = "WpsBotzZ" //ur bot name
-global.websitex = "https://youtube.com/shorts/6qK8qKW_TCw?feature=share" //ur website
+global.websitex = "https://youtu.be/EW365_ImHhs" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Instagram"
 global.author = "@cekor.store"
